@@ -8,4 +8,4 @@ I'm WJG, a flutter beginner + a fan of Korean dramas.
 
  [blog]: https://xbox.work
  [column]: https://cloud.tencent.com/developer/column/86207
- [resume]: https://github.com/idootop/resume_flutter
+ [resume]: https://github.com/idootop/resume_flutter/blob/master/bin/resume.pdf
